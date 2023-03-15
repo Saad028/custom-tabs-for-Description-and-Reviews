@@ -1,1 +1,1 @@
-# custom-tabs-for-Description-and-Reviews
+Custom Tabs for Description and Reviews in Product page
